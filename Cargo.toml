@@ -1,0 +1,7 @@
+[workspace]
+members = [
+    "vdb_key",
+    "vdb_value",
+    "vdb_table",
+    "vdb_derive",
+]
